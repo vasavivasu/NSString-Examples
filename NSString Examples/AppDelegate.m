@@ -92,8 +92,9 @@
                                      
                                      [aMutStr replaceOccurrencesOfString:@"tha" withString:@"the" options:NSLiteralSearch    range:NSMakeRange(0, [aMutStr length])];
                                      
-                                     NSLog(@"after replacing of the string is %@",aMutStr);
-                                     
+                                     NSLog(@"after replacing of the  is %@",aMutStr);
+                                     NSLog(@"vasavi");
+    
                                      
                                      
                                      //convertions
